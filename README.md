@@ -1,2 +1,5 @@
 # sodoku
-Cpp Term Project
+
+**普普通通程设课作业**
+
+是以DLX实现的深搜解数独，没什么特别的
